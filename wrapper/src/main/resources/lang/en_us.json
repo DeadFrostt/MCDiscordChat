@@ -59,8 +59,8 @@
   "message.formattedOtherMessage": "[{\"text\":\"[%server%] \",\"bold\":true,\"color\":\"blue\"},{\"text\":\"%message%\",\"bold\":false,\"color\":\"gray\"}]",
   "message.formattedCommandNotice": "[{\"text\":\"%name% \",\"bold\":false,\"color\":\"%roleColor%\"},{\"text\":\"executed %command% command!\",\"bold\":false,\"color\":\"gray\"}]",
 
-  "message.serverStarted": "**Server started!**",
-  "message.serverStopped": "**Server stopped!**",
+  "message.serverStarted": "# Server started!",
+  "message.serverStopped": "# Server stopped!",
 
   "message.joinServer": "**%playerName% joined the game**",
   "message.leftServer": "**%playerName% left the game**",
